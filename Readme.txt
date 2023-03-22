@@ -12,4 +12,4 @@ react-app:
  - run "npm start" command
  - page should automatically load when app compiles, if not you can access the app at "http://localhost:3000"
 
-Note, you might need to refresh the page once, just in case!
+Note, you might need to refresh the http://localhost:3000 at least once, just in case!
